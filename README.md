@@ -4,8 +4,6 @@
 
 [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=gregjan&color=DDD&logo=github)](https://github.com/gregjan/)
 
-![Random Header Image](https://source.unsplash.com/1000x200/?archival,historical)
-
 In my professional work I strive to build software platforms for meaningful, socially responsible interaction between people and data, especially in support of cultural heritage, journalism, social history, and digital preservation. After successive experiences building digital repositories and asset management systems for cultural heritage, I've found my way into software research in the information studies area. I know that we have great challenges and opportunities ahead there, especially in the area of knowledge extraction, amalgamation, and reuse.
 
 I am available for part-time freelance work in any area touching on the opportunities mentioned above.
